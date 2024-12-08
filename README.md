@@ -21,7 +21,8 @@ If you want to tweak it, I've provided the .f3d design file. I modelled it in Fu
 	* Super Glue (also known as Cyanoacrylate)
 	* Bostik All Purpose glue. (it's like a contact adhesive for home/craft use, that holds well but comes apart again relatively easily.)
 * Some LED strip
-	* I used: 12mm 60ppi Dotstar/APA LED strip.	* You can use basically anything for this but I used what I had to hand.
+	* I used: 12mm 60ppi Dotstar/APA LED strip.
+	* You can use basically anything for this but I used what I had to hand.
 	* My scavanged strips were a bit short at ~35 LEDs, but it still looks fine.
 	* Neopixel/WS2812 strip will be more straightforward as it has one fewer wire, and many microcontrollers have a default output for this.
 * A Microcontroller
